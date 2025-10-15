@@ -21,7 +21,7 @@
 
 *Приблизний вигляд гри:*
 
-<img src="./img/02.png"/>
+<img src="./img/02.png" height="500"/>
 
 ### 🟦 Square Fall **[в розробці]**
 
@@ -29,7 +29,7 @@
 
 *Приблизний вигляд гри:*
 
-<img src="./img/03.png"/>
+<img src="./img/03.png" height="500"/>
 
 ### 🎨 Color Rush **[в розробці]**
 
@@ -37,7 +37,7 @@
 
 *Приблизний вигляд гри:*
 
-<img src="./img/04.png"/>
+<img src="./img/04.png" height="500"/>
 
 ---
 
